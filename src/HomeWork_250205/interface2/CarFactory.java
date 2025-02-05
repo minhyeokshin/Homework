@@ -30,4 +30,6 @@ public class CarFactory extends Factory implements IWorkingTogether{
     public String name(IWorkingTogether partner) {
         return getName();
     }
+
 }
+
