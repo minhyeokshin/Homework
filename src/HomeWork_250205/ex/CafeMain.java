@@ -6,9 +6,11 @@ public class CafeMain {
 
         Customer A = new Customer("A");
         Customer B = new Customer("B");
+        Customer C = new Customer("C");
 
         A.eat();
         B.eat();
+        C.eat();
     }
 
 }
